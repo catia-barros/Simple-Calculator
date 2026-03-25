@@ -2,8 +2,6 @@
 
 <p> A beginner-friendly Python calculator that supports basic arithmetic operations, exponentiation, modulo and division by zero. This project runs in a loop, allowing the user to perform multiple calculations until they choose to quit.</p>
 
-<hr>
-
 <h2>✨ Features</h2>
 <ul>
   <li>➕ Addition</li>
@@ -15,8 +13,6 @@
   <li>🔁 Continuous loop until the user asks to quit</li>
   <li>🛡️ Input validation for operation and numbers</li>
 </ul>
-
-<hr>
 
 <h2>🚀 How It Works</h2>
 <ol>
@@ -35,8 +31,6 @@
   <li>The loop continues until the user enters <strong>q</strong>.</li>
 </ol>
 
-<hr>
-
 <h2>🧩 Example Usage</h2>
 <pre>
 Choose an operation (+, -, *, /, %, **), or 'q' to quit: /
@@ -45,15 +39,11 @@ Enter second number: 0
 Result: Infinity
 </pre>
 
-<hr>
-
 <h2>📂 Project Structure</h2>
 <pre>
 Simple-Calculator.py
 README.md
 </pre>
-
-<hr>
 
 <h2>🛠️ Technologies Used</h2>
 <ul>
@@ -61,8 +51,6 @@ README.md
   <li>Standard input/output</li>
   <li>Basic control flow (loops, conditionals, error handling)</li>
 </ul>
-
-<hr>
 
 <h2>📚 What I Learned</h2>
 <ul>
@@ -73,11 +61,7 @@ README.md
   <li>Writing clean, readable, commented Python code</li>
 </ul>
 
-<hr>
-
 <h2>👩‍💻 Author</h2>
 <p><strong>Cátia Barros</strong></p>
-
-<hr>
 
 <p align="center">✨ Thank you for checking out my project! ✨</p>
