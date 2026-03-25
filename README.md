@@ -28,7 +28,7 @@
       <li>division by zero → returns <strong>"Infinity"</strong></li>
     </ul>
   </li>
-  <li>The loop continues until the user enters <strong>q</strong>.</li>
+  <li>The loop continues until the user enters <strong>"q"</strong>.</li>
 </ol>
 
 <h2>🧩 Example Usage</h2>
@@ -63,5 +63,6 @@ README.md
 
 <h2>👩‍💻 Author</h2>
 <p><strong>Cátia Barros</strong></p>
+
 
 <p align="center">✨ Thank you for checking out my project! ✨</p>
